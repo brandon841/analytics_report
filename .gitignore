@@ -1,3 +1,9 @@
+# Firebase credentials - NEVER COMMIT THESE
+*.json
+*firebase*adminsdk*.json
+firebase-*-credentials.json
+heyyall-*-firebase-adminsdk-*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
