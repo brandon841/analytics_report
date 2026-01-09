@@ -44,7 +44,7 @@ Open `event_analytics.ipynb` in Jupyter or VS Code and run the cells to:
 ## Files
 
 - `event_analytics.ipynb` - Main analysis notebook
-- `utilitites.py` - Helper functions for BigQuery initialization
+- `utilities.py` - Helper functions for BigQuery initialization
 - `etl-testing-478716-c0b6c2c512e0.json` - Service account credentials
 
 ## Analytics Included
