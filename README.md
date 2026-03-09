@@ -75,8 +75,15 @@ Analyzes returning users and event participation:
 - Event joiner behavior
 - Cross-event participation trends
 
+### 6. Session Analytics (`session_analytics.ipynb`)
+Analyzes user session behavior and engagement:
+- Session duration distributions
+- Session frequency and recency
+- Patterns in session start and end times
+- Session-based retention and activity metrics
+
 ### 6. Global Analytics (`global_analytics.ipynb`)
-Provides high-level platform metrics:
+Provides high-level platform metrics and cross-platform comparisons:
 - Total user counts (iOS vs. Web)
 - Platform-wide event statistics
 - Overall growth trends
